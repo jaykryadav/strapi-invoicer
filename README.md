@@ -1,1 +1,3 @@
-# strapi-invoicer
+# Invoicer Software
+# Backend - Strapi
+# Frontend - React
